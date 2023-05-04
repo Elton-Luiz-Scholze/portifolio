@@ -48,9 +48,9 @@ export const Home = (): JSX.Element => {
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
               Eu sou um Desenvolvedor Web Fullstack, buscando a 1ª oportunidade
-              de trabalho como desenvolvedor{" "}
+              de trabalho como desenvolvedor.{" "}
               <Text as="span" type="heading1" color="brand1">
-                amo
+                Amo
               </Text>{" "}
               criar e{" "}
               <Text as="span" type="heading1" color="brand1">
