@@ -47,7 +47,8 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, me chamo {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-              Eu{" "}
+              Eu sou um Desenvolvedor Web Fullstack, buscando a 1ª oportunidade
+              de trabalho como desenvolvedor{" "}
               <Text as="span" type="heading1" color="brand1">
                 amo
               </Text>{" "}
@@ -55,7 +56,8 @@ export const Home = (): JSX.Element => {
               <Text as="span" type="heading1" color="brand1">
                 desenvolver
               </Text>{" "}
-              projetos e também adoro cubo mágico.
+              projetos, adoro cubo mágico, minha comunicação é muito boa e
+              trabalho muito bem em equipe.
             </Text>
             <Text type="body1" color="grey2">
               Conheça aqui neste ambiente, criado especialmente para você, todos

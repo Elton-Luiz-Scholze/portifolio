@@ -118,7 +118,7 @@ export const GlobalStyle = ({ children }: GlobalStyleProps): JSX.Element => {
       texts: '"Inter", sans-serif',
     },
     fontSizes: {
-      title1: "2.75rem",
+      title1: "2rem",
       title2: "1.75rem",
       title3: "1.50rem",
       title4: "1.25rem",
